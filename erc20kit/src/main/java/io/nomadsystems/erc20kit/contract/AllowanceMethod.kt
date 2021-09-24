@@ -1,7 +1,7 @@
-package io.horizontalsystems.erc20kit.contract
+package io.nomadsystems.erc20kit.contract
 
-import io.horizontalsystems.ethereumkit.contracts.ContractMethod
-import io.horizontalsystems.ethereumkit.models.Address
+import io.nomadsystems.ethereumkit.contracts.ContractMethod
+import io.nomadsystems.ethereumkit.models.Address
 
 class AllowanceMethod(val owner: Address, val spender: Address) : ContractMethod() {
 
