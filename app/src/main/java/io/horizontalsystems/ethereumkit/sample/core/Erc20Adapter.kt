@@ -1,14 +1,14 @@
-package io.horizontalsystems.ethereumkit.sample.core
+package io.nomadsystems.ethereumkit.sample.core
 
 import android.content.Context
-import io.horizontalsystems.erc20kit.core.Erc20Kit
-import io.horizontalsystems.ethereumkit.core.EthereumKit
-import io.horizontalsystems.ethereumkit.core.EthereumKit.SyncState
-import io.horizontalsystems.ethereumkit.core.toHexString
-import io.horizontalsystems.ethereumkit.models.Address
-import io.horizontalsystems.ethereumkit.models.FullTransaction
-import io.horizontalsystems.ethereumkit.models.TransactionData
-import io.horizontalsystems.ethereumkit.sample.Erc20Token
+import io.nomadsystems.erc20kit.core.Erc20Kit
+import io.nomadsystems.ethereumkit.core.EthereumKit
+import io.nomadsystems.ethereumkit.core.EthereumKit.SyncState
+import io.nomadsystems.ethereumkit.core.toHexString
+import io.nomadsystems.ethereumkit.models.Address
+import io.nomadsystems.ethereumkit.models.FullTransaction
+import io.nomadsystems.ethereumkit.models.TransactionData
+import io.nomadsystems.ethereumkit.sample.Erc20Token
 import io.reactivex.Flowable
 import io.reactivex.Single
 import java.math.BigDecimal
