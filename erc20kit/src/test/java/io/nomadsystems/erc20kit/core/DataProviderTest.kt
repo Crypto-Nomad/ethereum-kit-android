@@ -1,4 +1,4 @@
-package io.horizontalsystems.erc20kit.core
+package io.nomadsystems.erc20kit.core
 
 import io.reactivex.Single
 import org.junit.Assert.*
