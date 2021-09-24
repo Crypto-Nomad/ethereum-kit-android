@@ -1,4 +1,4 @@
-package io.horizontalsystems.ethereumkit.sample
+package io.nomadsystems.ethereumkit.sample
 
 import androidx.lifecycle.Observer
 import android.os.Bundle
@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import io.horizontalsystems.ethereumkit.core.EthereumKit
+import io.nomadsystems.ethereumkit.core.EthereumKit
 import kotlinx.android.synthetic.main.fragment_balance.*
 
 class BalanceFragment : Fragment() {
