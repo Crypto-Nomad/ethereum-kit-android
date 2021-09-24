@@ -1,8 +1,8 @@
-package io.horizontalsystems.ethereumkit.sample
+package io.nomadsystems.ethereumkit.sample
 
 import android.app.Application
 import com.facebook.stetho.Stetho
-import io.horizontalsystems.ethereumkit.core.EthereumKit
+import io.nomadsystems.ethereumkit.core.EthereumKit
 import io.reactivex.plugins.RxJavaPlugins
 import java.util.logging.Logger
 
