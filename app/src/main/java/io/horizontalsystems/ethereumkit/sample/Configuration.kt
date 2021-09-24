@@ -1,7 +1,7 @@
-package io.horizontalsystems.ethereumkit.sample
+package io.nomadsystems.ethereumkit.sample
 
-import io.horizontalsystems.ethereumkit.core.EthereumKit
-import io.horizontalsystems.ethereumkit.models.Address
+import io.nomadsystems.ethereumkit.core.EthereumKit
+import io.nomadsystems.ethereumkit.models.Address
 
 object Configuration {
     const val webSocket: Boolean = true
