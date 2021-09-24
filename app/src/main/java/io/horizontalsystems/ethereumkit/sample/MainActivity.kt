@@ -1,4 +1,4 @@
-package io.horizontalsystems.ethereumkit.sample
+package io.nomadsystems.ethereumkit.sample
 
 import android.os.Bundle
 import android.view.MenuItem
